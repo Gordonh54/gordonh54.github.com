@@ -54,3 +54,55 @@
 a{
   color: black;
 }
+
+p.ad1{
+	color: rgb(220, 0, 255);
+}
+img.ad1{
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 100%
+}
+div.ad1{
+	background-color: rgb(220, 0, 255);
+	height:70px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.ads:hover{
+	color: white;
+}
+.ad1{
+	font-family: 'Black Ops One', cursive;
+	text-align: center;
+	}
+img.ad2{
+	position:relative;
+	width:750px;
+	height:130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+b.ad2{
+	color:purple;
+}
+#thanos{
+	position: relative;
+	left: 200px;
+	width: 200px;
+	height:342px;
+	border:5px solid rgb(220, 0, 255);
+}
+#map{
+	border:2px solid black;
+}
+#michael{
+	width:900px;
+	height:150px;
+}
+.ads{
+	text-decoration:none;
+}
